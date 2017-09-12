@@ -1,2 +1,2 @@
 # oracle-standby
-creating oracle standby database for enterprice and standard edishion
+creating oracle standby database for Enterprise Edition and Standarв Edition
