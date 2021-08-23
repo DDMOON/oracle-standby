@@ -1,4 +1,0 @@
-#chech archivelog mode
-sql>
-SELECT log_mode FROM v$database;
-ARCHIVE LOG LIST;
